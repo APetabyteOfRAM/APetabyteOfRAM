@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ram Vempati, a sophomore at TJHSST experienced in 
+I'm Ram Vempati, a junior at TJHSST experienced in 
 🤖Robotics, 🚀Aerospace, &#129504;AI, and 
 💻Web Development. I enjoy leading and contributing to some of the most ambitious high school projects in the country, including building a humanoid robot and launching a liquid-fueled rocket to space. You can find me on <a href = "https://www.linkedin.com/in/ram-vempati-303880220/"><img src = "Imgs/LI-In-Bug.png" width = "16">.
 
